@@ -1,0 +1,8 @@
+Package: com.user.autolowpower
+Name: AutoLowPower
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: Automatically toggle Low Power Mode on charger plug/unplug.
+Maintainer: User
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)

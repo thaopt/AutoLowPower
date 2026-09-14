@@ -1,0 +1,4 @@
+# Theos build artifacts
+.theos/
+packages/
+*.deb
